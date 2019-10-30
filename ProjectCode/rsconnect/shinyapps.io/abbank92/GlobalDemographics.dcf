@@ -1,0 +1,13 @@
+name: GlobalDemographics
+title: GlobalDemographics
+username:
+account: abbank92
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 333565
+bundleId: 1345971
+url: https://abbank92.shinyapps.io/GlobalDemographics/
+when: 1525026924.74328
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: apr04.R|apr06.R|apr09.R|apr11.R|apr13.R|apr16.R|apr18.R|countries_codes_and_coordinates.csv|factbook.xml|globalDemographics.pdf|globalDemographics.Rmd|map.R|USPopMap.R|extensionData/1790-2010_MASTER.csv|extensionData/county_msa.csv|extensionData/gdp_metro0917.csv|globalDemographics_files/figure-latex/unnamed-chunk-10-1.pdf|globalDemographics_files/figure-latex/unnamed-chunk-2-1.pdf|globalDemographics_files/figure-latex/unnamed-chunk-9-1.pdf
